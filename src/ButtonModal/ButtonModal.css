@@ -1,0 +1,15 @@
+.ButtonModal {
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    background: none;
+    border-top: 1px solid rgb(212, 212, 212);
+    font-size: 1rem;
+    padding-top: 20px;
+}
+.ButtonModal:hover {
+    color: purple;
+    cursor: pointer;
+}
